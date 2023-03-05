@@ -4,6 +4,8 @@ Your Challenge this week is emblematic of the fact that most modern websites are
 
 This week, you’ll take a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. It's already set up to allow users to save book searches to the back end.
 
+Access the video through the [following link](https://drive.google.com/file/d/1CaaX6gBP3z2dYZTFqiKHAPg9sVLvEKvu/view?usp=sharing)
+
 To fulfill the Challenge, you’ll need to do the following:
 
 1. Set up an Apollo Server to use GraphQL queries and mutations to fetch and modify data, replacing the existing RESTful API.
